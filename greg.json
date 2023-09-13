@@ -1,0 +1,31 @@
+{
+  "$schema": "https://cashtokens.org/bcmr-v2.schema.json",
+  "version": {
+    "major": 0,
+    "minor": 1,
+    "patch": 0
+  },
+  "latestRevision": "2023-09-13T02:12:50.609Z",
+  "registryIdentity": {
+    "name": "bcmr for greg16676935420",
+    "description": "self-published bcmr for greg16676935420"
+  },
+  "identities": {
+    "fa3b38d4de8f606418ed7d633ccf9bc0d976d727943833bd4301bcc273249280": {
+      "2023-09-13T02:12:50.609Z": {
+        "name": "greg16676935420",
+        "description": "im greg I like football and stocks and my birthday im from kentuckey. I'm a investor. I like to golf at the golf course  @gregmultiverse  • subscribe for $1 ⤴️",
+        "token": {
+          "category": "fa3b38d4de8f606418ed7d633ccf9bc0d976d727943833bd4301bcc273249280",
+          "symbol": "greg",
+          "decimals": 0
+        },
+        "uris": {
+          "icon": "https://raw.githubusercontent.com/bitcoincashx/greg16676935420/main/greg16676935420.png",
+          "web": "https://opensea.io/collection/multiverse-of-gregs",
+          "twitter": "https://twitter.com/greg16676935420"
+        }
+      }
+    }
+  }
+}
